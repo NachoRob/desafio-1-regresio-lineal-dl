@@ -1,0 +1,36 @@
+# macOS / OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de iconos y miniaturas
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directorios de archivos locales para carpetas en red/externas
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# --- Extras recomendados para desarrollo ---
+
+# Entornos virtuales de Python (común en AI/Data Science)
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Variables de entorno (¡Seguridad!)
+.env
+.env.local
+
+04_d_Desafío_-_Introducción_al_Machine_Learning.pdf
